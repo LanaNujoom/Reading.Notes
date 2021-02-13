@@ -10,9 +10,10 @@ My name is Lana Nujoom, I am an Architect , I have a bachelor's degree in Archit
 
 ##  [Code 102 - Intro to Software Development ]( https://lananujoom.github.io/Reading.Notes/Code%20102%20-%20Intro%20to%20Software%20Development)
 
-## Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development (https://lananujoom.github.io/Reading.Notes/Code%20301%20-%20Intermediate%20Software%20Development)
 
-## Code 301 - Intermediate Software Development
+
+##  [Code 301 - Intermediate Software Development ]( https://lananujoom.github.io/Reading.Notes/Code%20301%20-%20Intermediate%20Software%20Development)
 
 ## Code 401 - Advanced Software Development
 
