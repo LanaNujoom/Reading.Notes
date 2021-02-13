@@ -6,7 +6,7 @@ My name is Lana Nujoom, I am an Architect , I have a bachelor's degree in Archit
  
   **My Reading Notes:**
 
-## [Code 102 - Intro to Software Development ]( https://lananujoom.github.io/Reading.Notes/Code%20102%20-%20Intro%20to%20Software%20Development)
+
 
 ##  [Code 102 - Intro to Software Development ]( https://lananujoom.github.io/Reading.Notes/Code%20102%20-%20Intro%20to%20Software%20Development)
 
