@@ -12,7 +12,7 @@ Mustache is described as a "logic-less" system because it lacks any explicit con
 It is named "Mustache" because of ***heavy use of braces***, { }, that resemble a sideways moustache.
 
 
-* Where to use mustache.js? *
+- Where to use mustache.js? 
 
 You can use mustache.js to render mustache templates anywhere you can using JavaScript. This includes web browsers, server-side environments such as Node.js, and CouchDB views.
 
